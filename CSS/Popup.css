@@ -1,0 +1,19 @@
+ 
+body {
+      background-color: white;
+     }
+        
+div {
+      border:1px solid;
+      color:pink;
+      margin: 30px;
+      padding: 20px;
+    }
+
+div.Popup {
+            display: none;
+          }
+       
+h1 {
+     text-align: center;
+   }
